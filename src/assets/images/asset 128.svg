@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="34px" viewBox="0 0 30 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
+    <title>Icon – Play@1.5x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20,260.440055 C20,262.101651 21.1502729,262.758494 22.5748892,261.903746 L41.2738227,250.68467 C42.6958947,249.831448 42.6984389,248.449594 41.2738227,247.594803 L22.5748892,236.375159 C21.1528172,235.521894 20,236.172129 20,237.838772 L20,260.440055 Z" id="path-1"></path>
+        <filter x="-31.3%" y="-19.0%" width="162.7%" height="153.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Billboard---Video" transform="translate(-335.000000, -374.000000)">
+            <g id="Group-7" transform="translate(319.000000, 140.000000)">
+                <g id="Icon-–-Play">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
