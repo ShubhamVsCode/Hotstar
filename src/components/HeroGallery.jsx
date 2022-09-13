@@ -1,7 +1,7 @@
 import asset0 from "../assets/images/asset 0.webp";
-import asset1 from "../assets/images/asset 1.webp";
-import asset2 from "../assets/images/asset 2.webp";
-import asset3 from "../assets/images/asset 3.webp";
+// import asset1 from "../assets/images/asset 1.webp";
+// import asset2 from "../assets/images/asset 2.webp";
+// import asset3 from "../assets/images/asset 3.webp";
 
 import leftIcon from "../assets/icons/left-arrow.png";
 
